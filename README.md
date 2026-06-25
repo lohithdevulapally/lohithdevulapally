@@ -292,6 +292,7 @@ Goal: Build impactful products
 
 
 
+
 <!-- ============================================================ -->
 <!--                  GITHUB METRICS & STATS                      -->
 <!-- ============================================================ -->
@@ -299,9 +300,9 @@ Goal: Build impactful products
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=lohithdevulapally&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1DA1F2"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=lohithdevulapally&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1DA1F2&cache_seconds=1800"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lohithdevulapally&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lohithdevulapally&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&cache_seconds=1800"/>
 
 <br/><br/>
 
@@ -309,13 +310,11 @@ Goal: Build impactful products
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lohithdevulapally&theme=github_dark" width="100%"/>
-
-<br/><br/>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=lohithdevulapally&bg_color=0D1117&color=58A6FF&line=1DA1F2&point=ffffff&area=true&hide_border=true" width="100%"/>
 
 </div>
+
+
 
 
 <!-- ============================================================ -->
@@ -345,29 +344,29 @@ Goal: Build impactful products
 <tr>
 <td width="33%" valign="top" align="center">
 
-### ✍️ Author & Writer
-📖 _Hands-on Time Series Analytics with Python_ <br>
-🔬 **22+** papers — [Google Scholar](https://scholar.google.com/citations?user=MfHiCbkAAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0002-8307-9425) <br>
-📚 Reviewer of **25+** technical books <br>
-✏️ Blogs on **Medium & LinkedIn**
+### 💻 Developer & Builder
+♻️ Built **Smart Dustbin Project** using ESP32 + IoT <br>
+🤖 Working on **AI + Automation Projects** <br>
+🌐 Building **Full Stack Web Applications** <br>
+🚀 Exploring real-world product development
 
 </td>
 <td width="33%" valign="top" align="center">
 
-### 🎤 Speaker & Mentor
-🗣️ Speaker — **AWS Community Day AI/ML 2023** <br>
-🗣️ Speaker — **Google Developer Groups 2023** <br>
-👨‍🏫 Mentored **65+** students & engineers <br>
-🧑‍🔬 Collaborator in `keras` & `tensorflow`
+### 🎓 Learning Journey
+📚 BTech **CSE Student** <br>
+🧠 Learning **AI / ML / IoT / DSA** <br>
+💡 Solving problems on **LeetCode / CodeChef / Codeforces** <br>
+🔬 Interested in research & innovation
 
 </td>
 <td width="33%" valign="top" align="center">
 
-### 🏅 Recognition
-⭐ **GitHub Star Club Member** <br>
-🏆 **3× Kaggle Kernel Winner** <br>
-⚛️ IBM Quantum Challenge (Advanced) <br>
-☁️ Google Cloud GenAI Certified
+### 🏅 Goals & Recognition
+⭐ Growing my **GitHub Portfolio** <br>
+🏆 Preparing for **Hackathons & Coding Contests** <br>
+🔥 Goal: Become **AI Engineer / Full Stack Developer** <br>
+📈 Building projects that solve real problems
 
 </td>
 </tr>
@@ -375,13 +374,16 @@ Goal: Build impactful products
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashishpatel2604/)
-[![Medium](https://img.shields.io/badge/Read%20on%20Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ashishpatel.ce.2011)
-[![Kaggle](https://img.shields.io/badge/Follow%20on%20Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/ashishpatel26)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](YOUR_INSTAGRAM)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lohithdevulapally)
 
 </div>
 
 ---
+
+
+
 
 <!-- ============================================================ -->
 <!--                            QUOTE                             -->
@@ -397,8 +399,9 @@ Goal: Build impactful products
 <!-- ============================================================ -->
 <div align="center">
 
-**_Thanks for visiting — let's build the future of AI, together._**
+**_Thanks for visiting my profile — let's build smart AI & IoT solutions together._** 🚀
 
-⭐️ If you find my work useful, consider [following](https://github.com/ashishpatel26) or starring a repo.
+⭐️ If you like my projects, consider [following](https://github.com/lohithdevulapally) or starring a repo.
 
 </div>
+```
