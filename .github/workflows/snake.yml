@@ -1,4 +1,4 @@
-```yaml id="snakeyaml"
+```yaml id="snakefix"
 name: Generate Snake
 
 on:
@@ -9,7 +9,6 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
       - uses: Platane/snk@v3
         with:
